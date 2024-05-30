@@ -1,7 +1,0 @@
-flask
-Werkzeug
-Jinja2
-click
-MarkupSafe
-ItsDangerous
-gunicorn
